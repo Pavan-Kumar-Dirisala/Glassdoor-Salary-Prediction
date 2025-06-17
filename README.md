@@ -92,12 +92,29 @@ Glassdoor-Salary-Prediction/
 ├── onehot_columns.pkl
 ├──selected_kbest_columns.pkl
 ```
-##🙋‍♂️ Author
+
+# 🧰 Tech Stack
+
+## 🖥️ Languages
+- Python
+
+## 📚 Libraries
+- pandas, numpy
+- scikit-learn
+- xgboost, lightgbm
+- matplotlib, seaborn
+- joblib, pickle
+
+## 🧠 NLP
+- TF-IDF Vectorizer
+- SelectKBest for Dimensionality Reduction
+
+## 🙋‍♂️ Author
 
 Pavan Kumar Dirisala
 - 📧 dirisalapavankumar12@gmail.com
 - 🎓 KL University | CSE - AI & IP
-- 🌐 GitHub: [Pavan-Kumar-Dirisala]!
+- 🌐 GitHub: [[Pavan-Kumar-Dirisala]](https://github.com/Pavan-Kumar-Dirisala)
 
 ##⭐ Future Improvements
 
