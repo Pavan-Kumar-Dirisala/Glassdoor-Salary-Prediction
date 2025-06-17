@@ -55,7 +55,6 @@ Target variable: `avg_salary` (engineered from the raw salary estimates)
 
 ### 4. 🧪 Model Building
 - Trained several models:
-  - **Linear Regression**
   - **Random Forest Regressor**
   - **XGBoost Regressor**
   - **Stacking Ensemble**
@@ -77,10 +76,8 @@ Target variable: `avg_salary` (engineered from the raw salary estimates)
 git clone https://github.com/Pavan-Kumar-Dirisala/Glassdoor-Salary-Prediction.git
 cd Glassdoor-Salary-Prediction
 
-# 2. Install dependencies
-pip install -r requirements.txt  # (if available)
 
-# 3. Run the Jupyter Notebook
+# 2. Run the Jupyter Notebook
 jupyter notebook Sample_ML_Submission_Template.ipynb
 ```
 ## 📂 Repository Structure
@@ -120,7 +117,7 @@ Pavan Kumar Dirisala
 - 🎓 KL University | CSE - AI & IP
 - 🌐 GitHub: [[Pavan-Kumar-Dirisala]](https://github.com/Pavan-Kumar-Dirisala)
 
-##⭐ Future Improvements
+## ⭐ Future Improvements
 
 - Deploy model via Streamlit or Flask
 - Add real-time scraping of new job listings
