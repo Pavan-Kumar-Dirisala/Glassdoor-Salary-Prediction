@@ -1,4 +1,8 @@
 # 💼 Glassdoor Salary Prediction
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)](https://jupyter.org/)
+[![View on NBViewer](https://img.shields.io/badge/View%20Notebook-NBViewer-brightgreen)](https://nbviewer.org/github/yourusername/reponame/blob/main/Copy_of_Sample_ML_Submission_Template.ipynb)
+
+---
 
 A Machine Learning project that predicts salary estimates for job postings using structured data and natural language processing (NLP) on job descriptions. Built using various ensemble models, feature selection techniques, and NLP pipelines to improve prediction accuracy.
 
